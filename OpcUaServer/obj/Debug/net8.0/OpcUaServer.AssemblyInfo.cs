@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpcUaServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62d65ac9688e7c819a9f92c303e7cce457167f3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eb8f02bf204c276845a87e746e0091240209122")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpcUaServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpcUaServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
